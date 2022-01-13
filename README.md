@@ -17,6 +17,8 @@
 
 ### Data Visualization
 
+### Cloud Computing
+
 ### Databases
 [<code><img height="40" src="https://github.com/fabiogaiera/fabiogaiera/blob/master/MySQL.png?raw=true"></code>](https://www.mysql.com/)
 [<code><img height="40" src="https://github.com/fabiogaiera/fabiogaiera/blob/master/Oracle.png?raw=true"></code>](https://www.oracle.com/)
