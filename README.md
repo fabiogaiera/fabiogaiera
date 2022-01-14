@@ -9,7 +9,7 @@
     <th>Machine Learning Libraries</th>
   </tr>
 	<tr>
-		<td style="background-color:#FFFFFF">
+		<td>
 			<a href="https://www.python.org/" target="_blank">
 				<img src="/images/Python.png" alt="Python" height="60">
 			</a>
@@ -17,7 +17,7 @@
 				<img src="/images/Java.png" alt="Java" height="60">
 			</a>
 		</td>
-    	<td style="background-color:#FFFFFF">
+    	<td>
 			<a href="https://www.tensorflow.org/" target="_blank">
 				<img src="/images/TensorFlow.png" alt="TensorFlow" height="60">
 			</a>
@@ -34,7 +34,7 @@
     <th>Data Visualization</th>
   </tr>
 	<tr>
-		<td bgcolor = "white">
+		<td>
 			<a href="https://numpy.org/" target="_blank">
 				<img src="/images/NumPy.png" alt="NumPy" height="60">
 			</a>
@@ -42,7 +42,7 @@
 				<img src="/images/pandas.png" alt="pandas" height="60">
 			</a>
 		</td>
-    	<td bgcolor = "white">
+    	<td>
 			<a href="https://matplotlib.org/" target="_blank">
 				<img src="/images/Matplotlib.png" alt="Matplotlib" height="60">
 			</a>
@@ -59,12 +59,12 @@
     <th>Databases</th>
   </tr>
 	<tr>
-		<td bgcolor = "white">
+		<td>
 			<a href="https://cloud.google.com/" target="_blank">
 				<img src="/images/GCP.png" alt="Google Cloud Platform" height="60">
 			</a>
 		</td>
-    	<td bgcolor = "white">
+    	<td>
 			<a href="https://www.mysql.com/" target="_blank">
 				<img src="/images/MySQL.png" alt="MySQL" height="60">
 			</a>
