@@ -41,6 +41,7 @@
 	<tr>
     <th>Programming Languages</th>
     <th>IDEs</th>
+    <th>Notebook Documents</th>
   </tr>
 	<tr>
 		<td>
@@ -52,11 +53,19 @@
 			</a>
 		</td>
 		<td>
+			<a href="https://www.jetbrains.com/pycharm/" target="_blank">
+				<img src="/images/PyCharm.png" alt="PyCharm" height="60">
+			</a>
 			<a href="https://www.jetbrains.com/idea/" target="_blank">
 				<img src="/images/IntelliJ IDEA.png" alt="IntelliJ IDEA" height="60">
 			</a>
-			<a href="https://www.jetbrains.com/pycharm/" target="_blank">
-				<img src="/images/PyCharm.png" alt="PyCharm" height="60">
+		</td>
+		<td>
+			<a href="https://jupyter.org/" target="_blank">
+				<img src="/images/Jupyter.png" alt="Jupyter" height="60">
+			</a>
+			<a href="https://colab.research.google.com/" target="_blank">
+				<img src="/images/Google Colaboratory.png" alt="Google Colaboratory" height="60">
 			</a>
 		</td>
     </tr> 
