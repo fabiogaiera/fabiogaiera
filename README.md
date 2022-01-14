@@ -6,10 +6,7 @@
 |Programming Languages|Machine Learning Libraries|
 | ----------- | ----------- |
 
-|[<code><img height="40" src="https://github.com/fabiogaiera/fabiogaiera/blob/master/Python.png?raw=true"></code>](https://www.python.org/)
-[<code><img height="40" src="https://github.com/fabiogaiera/fabiogaiera/blob/master/Java.png?raw=true"></code>](https://www.oracle.com/java/)|
-[<code><img height="40" src="https://github.com/fabiogaiera/fabiogaiera/blob/master/TensorFlow.png?raw=true"></code>](https://www.tensorflow.org/)
-[<code><img height="40" src="https://github.com/fabiogaiera/fabiogaiera/blob/master/Keras.png?raw=true"></code>](https://keras.io/)|
+|[<code><img height="40" src="https://github.com/fabiogaiera/fabiogaiera/blob/master/Python.png?raw=true"></code>](https://www.python.org/)[<code><img height="40" src="https://github.com/fabiogaiera/fabiogaiera/blob/master/Java.png?raw=true"></code>](https://www.oracle.com/java/)|[<code><img height="40" src="https://github.com/fabiogaiera/fabiogaiera/blob/master/TensorFlow.png?raw=true"></code>](https://www.tensorflow.org/)[<code><img height="40" src="https://github.com/fabiogaiera/fabiogaiera/blob/master/Keras.png?raw=true"></code>](https://keras.io/)|
 
 
 ### Data Analysis 
