@@ -9,7 +9,10 @@
     <th>Machine Learning Libraries</th>
   </tr>
 	<tr>
-		<td>Python java</td>
+		<td>
+			<img src="https://github.com/fabiogaiera/fabiogaiera/blob/master/Python.png?raw=true" alt="Python" height="40">
+			<img src="https://github.com/fabiogaiera/fabiogaiera/blob/master/Java.png?raw=true" alt="Java" height="40">
+		</td>
     	<td>TensorFlow Keras</td>
     </tr> 
 </table>
