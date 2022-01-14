@@ -9,7 +9,7 @@
     <th>Machine Learning Libraries</th>
   </tr>
 	<tr>
-		<td bgcolor = "white">
+		<td style="background-color:#FFFFFF">
 			<a href="https://www.python.org/" target="_blank">
 				<img src="/images/Python.png" alt="Python" height="60">
 			</a>
@@ -17,7 +17,7 @@
 				<img src="/images/Java.png" alt="Java" height="60">
 			</a>
 		</td>
-    	<td bgcolor = "white">
+    	<td style="background-color:#FFFFFF">
 			<a href="https://www.tensorflow.org/" target="_blank">
 				<img src="/images/TensorFlow.png" alt="TensorFlow" height="60">
 			</a>
