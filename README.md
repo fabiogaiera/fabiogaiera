@@ -87,7 +87,7 @@
 			<a href="https://www.mysql.com/" target="_blank">
 				<img src="/images/MySQL.png" alt="MySQL" height="60">
 			</a>
-			<a href="https://www.oracle.com" target="_blank">
+			<a href="https://www.oracle.com/" target="_blank">
 				<img src="/images/Oracle.png" alt="Oracle" height="60">
 			</a>
 			<a href="https://www.mongodb.com/" target="_blank">
@@ -99,7 +99,7 @@
 				<img src="/images/Docker.png" alt="Docker" height="60">
 			</a>
 			<a href="https://kubernetes.io/" target="_blank">
-				<img src="/images/Kubernetes.png" alt="kubernetes" height="60">
+				<img src="/images/Kubernetes.png" alt="Kubernetes" height="60">
 			</a>
     	</td>
     </tr> 
@@ -123,11 +123,11 @@
 			</a>
     	</td>
     	<td>
-			<a href="https://www.docker.com/" target="_blank">
-				<img src="/images/Docker.png" alt="Docker" height="60">
+			<a href="https://git-scm.com/" target="_blank">
+				<img src="/images/Git.png" alt="Git" height="60">
 			</a>
-			<a href="https://kubernetes.io/" target="_blank">
-				<img src="/images/Kubernetes.png" alt="kubernetes" height="60">
+			<a href="https://www.jenkins.io/" target="_blank">
+				<img src="/images/Jenkins.png" alt="Jenkins" height="60">
 			</a>
     	</td>
     </tr> 
