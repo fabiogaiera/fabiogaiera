@@ -10,8 +10,12 @@
   </tr>
 	<tr>
 		<td>
-			<img src="https://github.com/fabiogaiera/fabiogaiera/blob/master/Python.png?raw=true" alt="Python" height="40">
-			<img src="https://github.com/fabiogaiera/fabiogaiera/blob/master/Java.png?raw=true" alt="Java" height="40">
+			<a href="https://www.python.org/" target="_blank">
+				<img src="https://github.com/fabiogaiera/fabiogaiera/blob/master/Python.png?raw=true" alt="Python" height="40">
+			</a>
+			<a href="https://www.oracle.com/java/" target="_blank">
+				<img src="https://github.com/fabiogaiera/fabiogaiera/blob/master/Java.png?raw=true" alt="Java" height="40">
+			</a>
 		</td>
     	<td>TensorFlow Keras</td>
     </tr> 
