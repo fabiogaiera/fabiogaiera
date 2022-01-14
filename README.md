@@ -5,18 +5,11 @@
 
 <table>
 	<tr>
-    <th>Programming Languages</th>
-    <th>Machine Learning Libraries</th>
+    <th>Machine Learning</th>
+    <th>Data Analysis</th>
+    <th>Data Visualization</th>
   </tr>
 	<tr>
-		<td>
-			<a href="https://www.python.org/" target="_blank">
-				<img src="/images/Python.png" alt="Python" height="60">
-			</a>
-			<a href="https://www.oracle.com/java/" target="_blank">
-				<img src="/images/Java.png" alt="Java" height="60">
-			</a>
-		</td>
     	<td>
 			<a href="https://www.tensorflow.org/" target="_blank">
 				<img src="/images/TensorFlow.png" alt="TensorFlow" height="60">
@@ -25,16 +18,7 @@
 				<img src="/images/Keras.png" alt="Keras" height="60">
 			</a>
     	</td>
-    </tr> 
-</table>
-<br/>
-<table>
-	<tr>
-    <th>Data Analysis</th>
-    <th>Data Visualization</th>
-  </tr>
-	<tr>
-		<td>
+    	<td>
 			<a href="https://numpy.org/" target="_blank">
 				<img src="/images/NumPy.png" alt="NumPy" height="60">
 			</a>
@@ -50,6 +34,23 @@
 				<img src="/images/Seaborn.png" alt="Seaborn" height="60">
 			</a>
     	</td>
+    </tr> 
+</table>
+<br/>
+<table>
+	<tr>
+    <th>Programming Languages</th>
+    <th>IDEs</th>
+  </tr>
+	<tr>
+		<td>
+			<a href="https://www.python.org/" target="_blank">
+				<img src="/images/Python.png" alt="Python" height="60">
+			</a>
+			<a href="https://www.oracle.com/java/" target="_blank">
+				<img src="/images/Java.png" alt="Java" height="60">
+			</a>
+		</td>
     </tr> 
 </table>
 <br/>
