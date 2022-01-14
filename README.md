@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## I am a Software Engineer who loves to build things. Nowadays I mostly work on Java and Python based applications development.
+## I am a Machine Learning Engineer who loves to build things. Nowadays I mostly work on Java and Python based applications development.
 
 
 ### Programming Languages
@@ -12,8 +12,8 @@
 
 
 ### Data Analysis 
-[<code><img height="40" src="https://github.com/fabiogaiera/fabiogaiera/blob/master/pandas.png?raw=true"></code>](https://pandas.pydata.org/)
 [<code><img height="40" src="https://github.com/fabiogaiera/fabiogaiera/blob/master/NumPy.png?raw=true"></code>](https://numpy.org/)
+[<code><img height="40" src="https://github.com/fabiogaiera/fabiogaiera/blob/master/pandas.png?raw=true"></code>](https://pandas.pydata.org/)
 
 ### Data Visualization
 
