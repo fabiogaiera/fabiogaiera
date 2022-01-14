@@ -51,6 +51,14 @@
 				<img src="/images/Java.png" alt="Java" height="60">
 			</a>
 		</td>
+		<td>
+			<a href="https://www.jetbrains.com/idea/" target="_blank">
+				<img src="/images/IntelliJ IDEA.png" alt="IntelliJ IDEA" height="60">
+			</a>
+			<a href="https://www.jetbrains.com/pycharm/" target="_blank">
+				<img src="/images/PyCharm.png" alt="PyCharm" height="60">
+			</a>
+		</td>
     </tr> 
 </table>
 <br/>
