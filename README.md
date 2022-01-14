@@ -14,7 +14,7 @@
 				<img src="/images/Python.png" alt="Python" height="40">
 			</a>
 			<a href="https://www.oracle.com/java/" target="_blank">
-				<img src="images/Java.png" alt="Java" height="40">
+				<img src="/images/Java.png" alt="Java" height="40">
 			</a>
 		</td>
     	<td>
@@ -22,7 +22,7 @@
 				<img src="/images/TensorFlow.png" alt="TensorFlow" height="40">
 			</a>
 			<a href="https://keras.io/" target="_blank">
-				<img src="images/Keras.png" alt="Keras" height="40">
+				<img src="/images/Keras.png" alt="Keras" height="40">
 			</a>
     	</td>
     </tr> 
@@ -39,7 +39,7 @@
 				<img src="/images/NumPy.png" alt="NumPy" height="40">
 			</a>
 			<a href="https://pandas.pydata.org/" target="_blank">
-				<img src="images/pandas.png" alt="pandas" height="40">
+				<img src="/images/pandas.png" alt="pandas" height="40">
 			</a>
 		</td>
     	<td>
@@ -47,7 +47,7 @@
 				<img src="/images/Matplotlib.png" alt="Matplotlib" height="40">
 			</a>
 			<a href="https://seaborn.pydata.org/" target="_blank">
-				<img src="images/Seaborn.png" alt="Seaborn" height="40">
+				<img src="/images/Seaborn.png" alt="Seaborn" height="40">
 			</a>
     	</td>
     </tr> 
@@ -69,10 +69,10 @@
 				<img src="/images/MySQL.png" alt="MySQL" height="40">
 			</a>
 			<a href="https://www.oracle.com" target="_blank">
-				<img src="images/Oracle.png" alt="Oracle" height="40">
+				<img src="/images/Oracle.png" alt="Oracle" height="40">
 			</a>
 			<a href="https://www.mongodb.com/" target="_blank">
-				<img src="images/MongoDB.png" alt="MongoDB" height="40">
+				<img src="/images/MongoDB.png" alt="MongoDB" height="40">
 			</a>
     	</td>
     </tr> 
