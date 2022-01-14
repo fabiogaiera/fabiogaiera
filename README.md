@@ -27,26 +27,35 @@
     	</td>
     </tr> 
 </table>
+<br/>
+<table>
+	<tr>
+    <th>Data Analysis</th>
+    <th>Data Visualization</th>
+  </tr>
+	<tr>
+		<td>
+			<a href="https://numpy.org/" target="_blank">
+				<img src="/images/NumPy.png" alt="NumPy" height="40">
+			</a>
+			<a href="https://pandas.pydata.org/" target="_blank">
+				<img src="images/pandas.png" alt="pandas" height="40">
+			</a>
+		</td>
+    	<td>
+			<a href="https://matplotlib.org/" target="_blank">
+				<img src="/images/Matplotlib.png" alt="Matplotlib" height="40">
+			</a>
+			<a href="https://seaborn.pydata.org/" target="_blank">
+				<img src="images/Seaborn.png" alt="Seaborn" height="40">
+			</a>
+    	</td>
+    </tr> 
+</table>
 
-
-Machine Learning Libraries
-
-[<code><img height="40" src="https://github.com/fabiogaiera/fabiogaiera/blob/master/TensorFlow.png?raw=true"></code>](https://www.tensorflow.org/)
-[<code><img height="40" src="https://github.com/fabiogaiera/fabiogaiera/blob/master/Keras.png?raw=true"></code>](https://keras.io/)
-
-
-Data Analysis 
-[<code><img height="40" src="https://github.com/fabiogaiera/fabiogaiera/blob/master/NumPy.png?raw=true"></code>](https://numpy.org/)
-[<code><img height="40" src="https://github.com/fabiogaiera/fabiogaiera/blob/master/pandas.png?raw=true"></code>](https://pandas.pydata.org/)
-
-Data Visualization
-[<code><img height="40" src="https://github.com/fabiogaiera/fabiogaiera/blob/master/Matplotlib.png?raw=true"></code>](https://matplotlib.org/)
-[<code><img height="40" src="https://github.com/fabiogaiera/fabiogaiera/blob/master/Seaborn.png?raw=true"></code>](https://seaborn.pydata.org/)
-
-### Cloud Computing
-
+Cloud Computing
 [<code><img height="40" src="https://github.com/fabiogaiera/fabiogaiera/blob/master/GCP.png?raw=true"></code>](https://cloud.google.com/)
 
-### Databases
+Databases
 [<code><img height="40" src="https://github.com/fabiogaiera/fabiogaiera/blob/master/MySQL.png?raw=true"></code>](https://www.mysql.com/)
 [<code><img height="40" src="https://github.com/fabiogaiera/fabiogaiera/blob/master/Oracle.png?raw=true"></code>](https://www.oracle.com/)
