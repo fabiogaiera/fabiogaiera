@@ -72,7 +72,7 @@
 				<img src="/images/Oracle.png" alt="Oracle" height="40">
 			</a>
 			<a href="https://www.mongodb.com/" target="_blank">
-				<img src="/images/MongoDB.png" alt="MongoDB" height="40">
+				<img src="/images/mongoDB.png" alt="MongoDB" height="40">
 			</a>
     	</td>
     </tr> 
