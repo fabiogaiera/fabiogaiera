@@ -104,3 +104,31 @@
     	</td>
     </tr> 
 </table>
+<br/>
+<table>
+	<tr>
+    <th>Java Frameworks</th>
+    <th>DevOps</th>
+  </tr>
+	<tr>
+    	<td>
+			<a href="https://spring.io/projects/spring-boot/" target="_blank">
+				<img src="/images/Spring Boot.png" alt="Spring Boot" height="60">
+			</a>
+			<a href="https://spring.io/projects/spring-framework/" target="_blank">
+				<img src="/images/Spring Framework.png" alt="Spring Framework" height="60">
+			</a>
+			<a href="https://hibernate.org/orm/" target="_blank">
+				<img src="/images/Hibernate ORM.png" alt="Hibernate ORM" height="60">
+			</a>
+    	</td>
+    	<td>
+			<a href="https://www.docker.com/" target="_blank">
+				<img src="/images/Docker.png" alt="Docker" height="60">
+			</a>
+			<a href="https://kubernetes.io/" target="_blank">
+				<img src="/images/Kubernetes.png" alt="kubernetes" height="60">
+			</a>
+    	</td>
+    </tr> 
+</table>
