@@ -75,6 +75,7 @@
 	<tr>
     <th>Cloud Computing</th>
     <th>Databases</th>
+    <th>Containerization</th>
   </tr>
 	<tr>
 		<td>
@@ -91,6 +92,14 @@
 			</a>
 			<a href="https://www.mongodb.com/" target="_blank">
 				<img src="/images/mongoDB.png" alt="MongoDB" height="60">
+			</a>
+    	</td>
+    	<td>
+			<a href="https://www.docker.com/" target="_blank">
+				<img src="/images/Docker.png" alt="Docker" height="60">
+			</a>
+			<a href="https://kubernetes.io/" target="_blank">
+				<img src="/images/kubernetes.png" alt="kubernetes" height="60">
 			</a>
     	</td>
     </tr> 
