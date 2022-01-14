@@ -52,10 +52,28 @@
     	</td>
     </tr> 
 </table>
-
-Cloud Computing
-[<code><img height="40" src="https://github.com/fabiogaiera/fabiogaiera/blob/master/GCP.png?raw=true"></code>](https://cloud.google.com/)
-
-Databases
-[<code><img height="40" src="https://github.com/fabiogaiera/fabiogaiera/blob/master/MySQL.png?raw=true"></code>](https://www.mysql.com/)
-[<code><img height="40" src="https://github.com/fabiogaiera/fabiogaiera/blob/master/Oracle.png?raw=true"></code>](https://www.oracle.com/)
+<br/>
+<table>
+	<tr>
+    <th>Cloud Computing</th>
+    <th>Databases</th>
+  </tr>
+	<tr>
+		<td>
+			<a href="https://cloud.google.com/" target="_blank">
+				<img src="/images/GCP.png" alt="Google Cloud Platform" height="40">
+			</a>
+		</td>
+    	<td>
+			<a href="https://www.mysql.com/" target="_blank">
+				<img src="/images/MySQL.png" alt="MySQL" height="40">
+			</a>
+			<a href="https://www.oracle.com" target="_blank">
+				<img src="images/Oracle.png" alt="Oracle" height="40">
+			</a>
+			<a href="https://www.mongodb.com/" target="_blank">
+				<img src="images/MongoDB.png" alt="MongoDB" height="40">
+			</a>
+    	</td>
+    </tr> 
+</table>
