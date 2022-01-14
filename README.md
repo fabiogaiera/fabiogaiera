@@ -17,15 +17,17 @@
 				<img src="images/Java.png" alt="Java" height="40">
 			</a>
 		</td>
-    	<td>TensorFlow Keras
+    	<td>
+			<a href="https://www.tensorflow.org/" target="_blank">
+				<img src="/images/TensorFlow.png" alt="TensorFlow" height="40">
+			</a>
+			<a href="https://keras.io/" target="_blank">
+				<img src="images/Keras.png" alt="Keras" height="40">
+			</a>
     	</td>
     </tr> 
 </table>
 
-Programming Languages
-
-[<code><img height="40" src="https://github.com/fabiogaiera/fabiogaiera/blob/master/Python.png?raw=true"></code>](https://www.python.org/)
-[<code><img height="40" src="https://github.com/fabiogaiera/fabiogaiera/blob/master/Java.png?raw=true"></code>](https://www.oracle.com/java/)
 
 Machine Learning Libraries
 
