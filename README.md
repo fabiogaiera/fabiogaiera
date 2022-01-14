@@ -11,18 +11,18 @@
 	<tr>
 		<td>
 			<a href="https://www.python.org/" target="_blank">
-				<img src="/images/Python.png" alt="Python" height="40">
+				<img src="/images/Python.png" alt="Python" height="60">
 			</a>
 			<a href="https://www.oracle.com/java/" target="_blank">
-				<img src="/images/Java.png" alt="Java" height="40">
+				<img src="/images/Java.png" alt="Java" height="60">
 			</a>
 		</td>
     	<td>
 			<a href="https://www.tensorflow.org/" target="_blank">
-				<img src="/images/TensorFlow.png" alt="TensorFlow" height="40">
+				<img src="/images/TensorFlow.png" alt="TensorFlow" height="60">
 			</a>
 			<a href="https://keras.io/" target="_blank">
-				<img src="/images/Keras.png" alt="Keras" height="40">
+				<img src="/images/Keras.png" alt="Keras" height="60">
 			</a>
     	</td>
     </tr> 
@@ -36,18 +36,18 @@
 	<tr>
 		<td>
 			<a href="https://numpy.org/" target="_blank">
-				<img src="/images/NumPy.png" alt="NumPy" height="40">
+				<img src="/images/NumPy.png" alt="NumPy" height="60">
 			</a>
 			<a href="https://pandas.pydata.org/" target="_blank">
-				<img src="/images/pandas.png" alt="pandas" height="40">
+				<img src="/images/pandas.png" alt="pandas" height="60">
 			</a>
 		</td>
     	<td>
 			<a href="https://matplotlib.org/" target="_blank">
-				<img src="/images/Matplotlib.png" alt="Matplotlib" height="40">
+				<img src="/images/Matplotlib.png" alt="Matplotlib" height="60">
 			</a>
 			<a href="https://seaborn.pydata.org/" target="_blank">
-				<img src="/images/Seaborn.png" alt="Seaborn" height="40">
+				<img src="/images/Seaborn.png" alt="Seaborn" height="60">
 			</a>
     	</td>
     </tr> 
