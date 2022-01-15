@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## I am a Machine Learning Engineer who loves to build things. Nowadays I mostly work on Java and Python based applications development.
+## I am a Machine Learning Engineer who loves building things. Nowadays I mostly work on Java and Python based applications development.
 
 
 <table>
