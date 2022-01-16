@@ -6,7 +6,7 @@
 
 [Awesome Classifier](https://awesome-classifier.herokuapp.com/)
 
-## Things I use
+## My Tech Stack
 
 <table>
 	<tr>
