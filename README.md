@@ -2,6 +2,11 @@
 
 ## I am a Machine Learning Engineer who loves building things. Nowadays I mostly work on Python and Java based applications development.
 
+## Sample Projects
+
+[Awesome Classifier](https://awesome-classifier.herokuapp.com/)
+
+## Things I use
 
 <table>
 	<tr>
@@ -136,6 +141,3 @@
     </tr> 
 </table>
 
-## Sample Projects
-
-[Awesome Classifier](https://awesome-classifier.herokuapp.com/)
