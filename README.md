@@ -135,3 +135,7 @@
     	</td>
     </tr> 
 </table>
+
+## Sample Projects
+
+[Awesome Classifier](https://awesome-classifier.herokuapp.com/)
