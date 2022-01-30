@@ -4,7 +4,7 @@
 
 ## Sample Projects
 
-[Awesome Classifier](https://awesome-classifier.herokuapp.com/)
+[Image Classifier With TensorFlow](https://img-classifier-tflite.herokuapp.com/)
 
 ## My Tech Stack
 
