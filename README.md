@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there <img src="/images/Waving-Hand.gif" width="40px">
 
 ## I am a Machine Learning Engineer who loves building things. Nowadays I mostly work on Python and Java based applications development.
 
