@@ -84,8 +84,8 @@
   </tr>
 	<tr>
 		<td>
-			<a href="https://cloud.google.com/" target="_blank">
-				<img src="/images/GCP.png" alt="Google Cloud Platform" height="60">
+			<a href="https://aws.amazon.com/" target="_blank">
+				<img src="/images/AWS.png" alt="Amazon Web Services" height="60">
 			</a>
 			<a href="https://www.heroku.com/" target="_blank">
 				<img src="/images/Heroku.png" alt="Heroku" height="60">
@@ -104,7 +104,7 @@
     	</td>
     	<td>
 			<a href="https://www.docker.com/" target="_blank">
-				<img src="/images/Docker.png" alt="Docker" height="60">
+				<img src="/images/Docker.svg" alt="Docker" height="60">
 			</a>
 			<a href="https://kubernetes.io/" target="_blank">
 				<img src="/images/Kubernetes.png" alt="Kubernetes" height="60">
