@@ -93,7 +93,7 @@
 		</td>
     	<td>
 			<a href="https://www.mysql.com/" target="_blank">
-				<img src="/images/MySQL.png" alt="MySQL" height="60">
+				<img src="/images/MySQL.svg" alt="MySQL" height="60">
 			</a>
 			<a href="https://www.oracle.com/" target="_blank">
 				<img src="/images/Oracle.png" alt="Oracle" height="60">
