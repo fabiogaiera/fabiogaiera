@@ -96,7 +96,7 @@
 				<img src="/images/MySQL.svg" alt="MySQL" height="60">
 			</a>
 			<a href="https://www.oracle.com/" target="_blank">
-				<img src="/images/Oracle.png" alt="Oracle" height="60">
+				<img src="/images/Oracle.svg" alt="Oracle" height="60">
 			</a>
 			<a href="https://www.mongodb.com/" target="_blank">
 				<img src="/images/mongoDB.png" alt="MongoDB" height="60">
