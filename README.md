@@ -67,10 +67,10 @@
 		</td>
 		<td>
 			<a href="https://jupyter.org/" target="_blank">
-				<img src="/images/Jupyter.png" alt="Jupyter" height="60">
+				<img src="/images/jupyter.svg" alt="jupyter" height="60">
 			</a>
 			<a href="https://colab.research.google.com/" target="_blank">
-				<img src="/images/Google Colaboratory.png" alt="Google Colaboratory" height="60">
+				<img src="/images/Google Colaboratory.svg" alt="Google Colaboratory" height="60">
 			</a>
 		</td>
     </tr> 
