@@ -36,7 +36,7 @@
 				<img src="/images/Matplotlib.svg" alt="Matplotlib" height="60">
 			</a>
 			<a href="https://seaborn.pydata.org/" target="_blank">
-				<img src="/images/Seaborn.png" alt="Seaborn" height="60">
+				<img src="/images/seaborn.svg" alt="Seaborn" height="60">
 			</a>
     	</td>
     </tr> 
