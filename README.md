@@ -51,7 +51,7 @@
 	<tr>
 		<td>
 			<a href="https://www.python.org/" target="_blank">
-				<img src="/images/Python.png" alt="Python" height="60">
+				<img src="/images/Python.svg" alt="Python" height="60">
 			</a>
 			<a href="https://www.oracle.com/java/" target="_blank">
 				<img src="/images/Java.png" alt="Java" height="60">
