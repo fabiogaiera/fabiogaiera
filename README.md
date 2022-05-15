@@ -85,7 +85,7 @@
 	<tr>
 		<td>
 			<a href="https://aws.amazon.com/" target="_blank">
-				<img src="/images/AWS.png" alt="Amazon Web Services" height="60">
+				<img src="/images/AWS.svg" alt="Amazon Web Services" height="60">
 			</a>
 			<a href="https://www.heroku.com/" target="_blank">
 				<img src="/images/Heroku.png" alt="Heroku" height="60">
