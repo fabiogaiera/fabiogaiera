@@ -140,6 +140,9 @@
 			<a href="https://www.jenkins.io/" target="_blank">
 				<img src="/images/Jenkins.png" alt="Jenkins" height="60">
 			</a>
+			<a href="https://www.sonarqube.org/" target="_blank">
+				<img src="/images/sonarqube.png" alt="sonarqube" height="60">
+			</a>
     	</td>
     </tr> 
 </table>
