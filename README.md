@@ -107,7 +107,7 @@
 				<img src="/images/Docker.svg" alt="Docker" height="60">
 			</a>
 			<a href="https://kubernetes.io/" target="_blank">
-				<img src="/images/Kubernetes.png" alt="Kubernetes" height="60">
+				<img src="/images/Kubernetes.svg" alt="Kubernetes" height="60">
 			</a>
     	</td>
     </tr> 
