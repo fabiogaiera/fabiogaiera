@@ -126,6 +126,9 @@
 			<a href="https://spring.io/projects/spring-framework/" target="_blank">
 				<img src="/images/Spring Framework.png" alt="Spring Framework" height="60">
 			</a>
+			<a href="https://spring.io/projects/spring-data/" target="_blank">
+				<img src="/images/Spring Data.png" alt="Spring Data" height="60">
+			</a>
 			<a href="https://hibernate.org/orm/" target="_blank">
 				<img src="/images/Hibernate ORM.png" alt="Hibernate ORM" height="60">
 			</a>
