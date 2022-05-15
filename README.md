@@ -138,7 +138,7 @@
 				<img src="/images/Git.svg" alt="Git" height="60">
 			</a>
 			<a href="https://www.jenkins.io/" target="_blank">
-				<img src="/images/Jenkins.png" alt="Jenkins" height="60">
+				<img src="/images/Jenkins.svg" alt="Jenkins" height="60">
 			</a>
 			<a href="https://www.sonarqube.org/" target="_blank">
 				<img src="/images/sonarqube.svg" alt="sonarqube" height="60">
