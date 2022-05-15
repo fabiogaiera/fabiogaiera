@@ -135,7 +135,7 @@
     	</td>
     	<td>
 			<a href="https://git-scm.com/" target="_blank">
-				<img src="/images/Git.png" alt="Git" height="60">
+				<img src="/images/Git.svg" alt="Git" height="60">
 			</a>
 			<a href="https://www.jenkins.io/" target="_blank">
 				<img src="/images/Jenkins.png" alt="Jenkins" height="60">
