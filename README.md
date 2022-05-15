@@ -121,13 +121,13 @@
 	<tr>
     	<td>
 			<a href="https://spring.io/projects/spring-boot/" target="_blank">
-				<img src="/images/Spring Boot.png" alt="Spring Boot" height="60">
+				<img src="/images/Spring Boot.svg" alt="Spring Boot" height="60">
 			</a>
 			<a href="https://spring.io/projects/spring-framework/" target="_blank">
-				<img src="/images/Spring Framework.png" alt="Spring Framework" height="60">
+				<img src="/images/Spring Framework.svg" alt="Spring Framework" height="60">
 			</a>
 			<a href="https://spring.io/projects/spring-data/" target="_blank">
-				<img src="/images/Spring Data.png" alt="Spring Data" height="60">
+				<img src="/images/Spring Data.svg" alt="Spring Data" height="60">
 			</a>
 			<a href="https://hibernate.org/orm/" target="_blank">
 				<img src="/images/Hibernate ORM.png" alt="Hibernate ORM" height="60">
