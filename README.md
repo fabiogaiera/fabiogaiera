@@ -99,7 +99,7 @@
 				<img src="/images/Oracle.svg" alt="Oracle" height="60">
 			</a>
 			<a href="https://www.mongodb.com/" target="_blank">
-				<img src="/images/mongoDB.png" alt="MongoDB" height="60">
+				<img src="/images/mongoDB.svg" alt="MongoDB" height="60">
 			</a>
     	</td>
     	<td>
