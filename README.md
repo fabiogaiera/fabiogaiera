@@ -20,7 +20,7 @@
 				<img src="/images/TensorFlow.svg" alt="TensorFlow" height="60">
 			</a>
 			<a href="https://keras.io/" target="_blank">
-				<img src="/images/Keras.png" alt="Keras" height="60">
+				<img src="/images/Keras.svg" alt="Keras" height="60">
 			</a>
     	</td>
     	<td>
