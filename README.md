@@ -130,7 +130,7 @@
 				<img src="/images/Spring Data.svg" alt="Spring Data" height="60">
 			</a>
 			<a href="https://hibernate.org/orm/" target="_blank">
-				<img src="/images/Hibernate ORM.png" alt="Hibernate ORM" height="60">
+				<img src="/images/Hibernate.svg" alt="Hibernate ORM" height="60">
 			</a>
     	</td>
     	<td>
@@ -141,7 +141,7 @@
 				<img src="/images/Jenkins.png" alt="Jenkins" height="60">
 			</a>
 			<a href="https://www.sonarqube.org/" target="_blank">
-				<img src="/images/sonarqube.png" alt="sonarqube" height="60">
+				<img src="/images/sonarqube.svg" alt="sonarqube" height="60">
 			</a>
     	</td>
     </tr> 
