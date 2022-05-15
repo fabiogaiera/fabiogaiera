@@ -17,7 +17,7 @@
 	<tr>
     	<td>
 			<a href="https://www.tensorflow.org/" target="_blank">
-				<img src="/images/TensorFlow.png" alt="TensorFlow" height="60">
+				<img src="/images/TensorFlow.svg" alt="TensorFlow" height="60">
 			</a>
 			<a href="https://keras.io/" target="_blank">
 				<img src="/images/Keras.png" alt="Keras" height="60">
