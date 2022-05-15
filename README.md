@@ -33,7 +33,7 @@
 		</td>
     	<td>
 			<a href="https://matplotlib.org/" target="_blank">
-				<img src="/images/Matplotlib.png" alt="Matplotlib" height="60">
+				<img src="/images/Matplotlib.svg" alt="Matplotlib" height="60">
 			</a>
 			<a href="https://seaborn.pydata.org/" target="_blank">
 				<img src="/images/Seaborn.png" alt="Seaborn" height="60">
