@@ -25,7 +25,7 @@
     	</td>
     	<td>
 			<a href="https://numpy.org/" target="_blank">
-				<img src="/images/NumPy.png" alt="NumPy" height="60">
+				<img src="/images/NumPy.svg" alt="NumPy" height="60">
 			</a>
 			<a href="https://pandas.pydata.org/" target="_blank">
 				<img src="/images/pandas.png" alt="pandas" height="60">
