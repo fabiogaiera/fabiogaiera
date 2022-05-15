@@ -59,10 +59,10 @@
 		</td>
 		<td>
 			<a href="https://www.jetbrains.com/pycharm/" target="_blank">
-				<img src="/images/PyCharm.png" alt="PyCharm" height="60">
+				<img src="/images/PyCharm.svg" alt="PyCharm" height="60">
 			</a>
 			<a href="https://www.jetbrains.com/idea/" target="_blank">
-				<img src="/images/IntelliJ IDEA.png" alt="IntelliJ IDEA" height="60">
+				<img src="/images/IntelliJ IDEA.svg" alt="IntelliJ IDEA" height="60">
 			</a>
 		</td>
 		<td>
