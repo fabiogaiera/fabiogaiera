@@ -64,6 +64,9 @@
 			<a href="https://www.jetbrains.com/idea/" target="_blank">
 				<img src="/images/IntelliJ IDEA.svg" alt="IntelliJ IDEA" height="60">
 			</a>
+			<a href="https://code.visualstudio.com/" target="_blank">
+				<img src="/images/Visual Studio Code.svg" alt="Visual Studio Code" height="60">
+			</a>
 		</td>
 		<td>
 			<a href="https://jupyter.org/" target="_blank">
