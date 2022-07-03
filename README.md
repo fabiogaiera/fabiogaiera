@@ -9,7 +9,7 @@
 		<th>Repository</th>
 	</tr>
 	<tr>
-		<th>[Image Classifier With TensorFlow](https://img-classifier-tflite.herokuapp.com/)</th>
+		<th><a href="https://img-classifier-tflite.herokuapp.com" target="_blank">Image Classifier With TensorFlow</a></th>
 		<th>https://github.com/fabiogaiera/img-classifier-tflite</th>
 	</tr>
 </table>
