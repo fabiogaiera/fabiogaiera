@@ -1,7 +1,5 @@
 ### Hi there! :wave:
 
-<img src="/images/Waving-Hand.gif" width="30px">
-
 ## I am a Software Engineer who loves building things. Nowadays I mostly work on Python and Java based applications development.
 
 ## Sample Projects
