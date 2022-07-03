@@ -3,6 +3,16 @@
 ## I am a Software Engineer who loves building things. Nowadays I mostly work on Python and Java based applications development.
 
 ## Sample Projects
+<table>
+	<tr>
+		<th>Application</th>
+		<th>Repository</th>
+	</tr>
+	<tr>
+		<th>[Image Classifier With TensorFlow](https://img-classifier-tflite.herokuapp.com/)</th>
+		<th>https://github.com/fabiogaiera/img-classifier-tflite</th>
+	</tr>
+</table>
 
 [Image Classifier With TensorFlow](https://img-classifier-tflite.herokuapp.com/)
 
