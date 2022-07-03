@@ -3,6 +3,7 @@
 ## I am a Software Engineer who loves building things. Nowadays I mostly work on Python and Java based applications development.
 
 ## Sample Projects
+
 <table>
 	<tr>
 		<th>Application</th>
@@ -12,9 +13,11 @@
 		<th><a href="https://img-classifier-tflite.herokuapp.com">Image Classifier With TensorFlow</a></th>
 		<th>https://github.com/fabiogaiera/img-classifier-tflite</th>
 	</tr>
+	<tr>
+		<th><a href="https://stock-market-prices-api.herokuapp.com">Stock Market Prices API</a></th>
+		<th>https://github.com/fabiogaiera/stock-market-prices-api</th>
+	</tr>
 </table>
-
-[Image Classifier With TensorFlow](https://img-classifier-tflite.herokuapp.com/)
 
 ## My Tech Stack
 
