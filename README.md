@@ -6,11 +6,11 @@
 
 <table>
 	<tr>
-		<th>Application</th>
+		<th>Application / API</th>
 		<th>Repository</th>
 	</tr>
 	<tr>
-		<th><a href="https://img-classifier-tflite.herokuapp.com">Image Classifier With TensorFlow</a></th>
+		<th><a href="https://img-classifier-tflite.herokuapp.com">Image Classifier Application</a></th>
 		<th>https://github.com/fabiogaiera/img-classifier-tflite</th>
 	</tr>
 	<tr>
