@@ -18,7 +18,7 @@
 		<th>https://github.com/fabiogaiera/stock-market-prices-api</th>
 	</tr>
 		<tr>
-		<th><a href="#">-</a></th>
+		<th><a href=""> </a></th>
 		<th>https://github.com/fabiogaiera/corn-diseases-classification-api</th>
 	</tr>
 </table>
