@@ -6,11 +6,11 @@
 
 <table>
 	<tr>
-		<th>Application / API</th>
+		<th>Web App / API</th>
 		<th>Repository</th>
 	</tr>
 	<tr>
-		<th><a href="https://scenes-classifier.herokuapp.com">Scenes Classifier Application</a></th>
+		<th><a href="https://scenes-classifier.herokuapp.com">Scenes Classifier Web App</a></th>
 		<th>https://github.com/fabiogaiera/scenes-classifier</th>
 	</tr>
 	<tr>
