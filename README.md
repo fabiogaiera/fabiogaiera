@@ -10,16 +10,16 @@
 		<th>Repository</th>
 	</tr>
 	<tr>
-		<th><a href="https://img-classifier-tflite.herokuapp.com">Image Classifier Application</a></th>
-		<th>https://github.com/fabiogaiera/img-classifier-tflite</th>
+		<th><a href="https://scenes-classifier.herokuapp.com">Scenes Classifier Application</a></th>
+		<th>https://github.com/fabiogaiera/scenes-classifier</th>
 	</tr>
 	<tr>
-		<th><a href="https://stock-market-prices-api.herokuapp.com">Stock Market Prices API</a></th>
-		<th>https://github.com/fabiogaiera/stock-market-prices-api</th>
+		<th><a href="https://stock-market-pricing.herokuapp.com">Stock Market Pricing API</a></th>
+		<th>https://github.com/fabiogaiera/stock-market-pricing</th>
 	</tr>
 		<tr>
-		<th><a href="https://corn-diseases-classification.herokuapp.com/">Corn Diseases Classification API</a></th>
-		<th>https://github.com/fabiogaiera/corn-diseases-classification</th>
+		<th><a href="https://corn-diseases-classifier.herokuapp.com">Corn Diseases Classifier API</a></th>
+		<th>https://github.com/fabiogaiera/corn-diseases-classifier</th>
 	</tr>
 </table>
 
