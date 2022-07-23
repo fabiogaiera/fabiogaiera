@@ -6,7 +6,7 @@
 
 <table>
 	<tr>
-		<th>Web App / API</th>
+		<th>Web App | API</th>
 		<th>Repository</th>
 	</tr>
 	<tr>
