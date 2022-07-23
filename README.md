@@ -112,11 +112,11 @@
 			</a>
 		</td>
     	<td>
-			<a href="https://www.mysql.com/" target="_blank">
-				<img src="/images/MySQL.svg" alt="MySQL" height="60">
-			</a>
 			<a href="https://www.oracle.com/" target="_blank">
 				<img src="/images/Oracle.svg" alt="Oracle" height="60">
+			</a>
+			<a href="https://www.mysql.com/" target="_blank">
+				<img src="/images/MySQL.svg" alt="MySQL" height="60">
 			</a>
 			<a href="https://www.mongodb.com/" target="_blank">
 				<img src="/images/mongoDB.svg" alt="MongoDB" height="60">
