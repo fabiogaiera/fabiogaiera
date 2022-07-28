@@ -18,7 +18,7 @@
 		<th>https://github.com/fabiogaiera/stock-market-pricing</th>
 	</tr>
 		<tr>
-		<th><a href="https://corn-diseases-classifier.herokuapp.com">Corn Diseases Classifier API</a></th>
+		<th><a href="#">N/A</a></th>
 		<th>https://github.com/fabiogaiera/corn-diseases-classifier</th>
 	</tr>
 </table>
