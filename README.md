@@ -18,7 +18,7 @@
 		<th>https://github.com/fabiogaiera/stock-market-pricing</th>
 	</tr>
 		<tr>
-		<th>See README.md for executing the code locally.</th>
+		<th>See README.md</th>
 		<th>https://github.com/fabiogaiera/corn-diseases-classifier</th>
 	</tr>
 </table>
