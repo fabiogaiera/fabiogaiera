@@ -4,7 +4,7 @@
 
 ## Sample Projects
 
-<table>
+<table>	
 	<tr>
 		<th>Web App | API</th>
 		<th>Repository</th>
@@ -14,10 +14,14 @@
 		<th>https://github.com/fabiogaiera/scenes-classifier</th>
 	</tr>
 	<tr>
+		<th>See README.md</th>
+		<th>https://github.com/fabiogaiera/scenes-classifier-tensorflow</th>
+	</tr>
+	<tr>
 		<th><a href="https://stock-market-pricing.herokuapp.com">Stock Market Pricing API</a></th>
 		<th>https://github.com/fabiogaiera/stock-market-pricing</th>
 	</tr>
-		<tr>
+	<tr>
 		<th>See README.md</th>
 		<th>https://github.com/fabiogaiera/corn-diseases-classifier</th>
 	</tr>
