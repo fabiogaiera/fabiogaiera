@@ -14,15 +14,15 @@
 		<th>https://github.com/fabiogaiera/handwritten-digits-classifier</th>
 	</tr>
 	<tr>
-		<th>Scenes Classifier Web Application. See README.md from repository</th>
+		<th>Scenes Classifier Web Application. See <a href="https://github.com/fabiogaiera/scenes-classifier-tensorflow#readme">README.md</a> from repository</th>
 		<th>https://github.com/fabiogaiera/scenes-classifier-tensorflow</th>
 	</tr>
 	<tr>
-		<th>Stock Market Pricing API. See README.md from repository</th>
+		<th>Stock Market Pricing API. See <a href="https://github.com/fabiogaiera/stock-market-pricing#readme">README.md</a> from repository</th>
 		<th>https://github.com/fabiogaiera/stock-market-pricing</th>
 	</tr>
 	<tr>
-		<th>Corn Diseases Classifier API. See README.md from repository</th>
+		<th>Corn Diseases Classifier API. See <a href="https://github.com/fabiogaiera/corn-diseases-classifier#readme">README.md</a> from repository</th>
 		<th>https://github.com/fabiogaiera/corn-diseases-classifier</th>
 	</tr>
 </table>
