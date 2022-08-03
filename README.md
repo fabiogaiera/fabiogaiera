@@ -10,19 +10,19 @@
 		<th>Repository</th>
 	</tr>
 	<tr>
-		<th><a href="https://scenes-classifier.herokuapp.com">Scenes Classifier Web App</a></th>
-		<th>https://github.com/fabiogaiera/scenes-classifier</th>
+		<th><a href="https://handwritten-digits-classifier.herokuapp.com">Handwritten Digits Classifier Web Application</a></th>
+		<th>https://github.com/fabiogaiera/handwritten-digits-classifier</th>
 	</tr>
 	<tr>
-		<th>See README.md</th>
+		<th>Scenes Classifier Web Application. See README.md from repository</th>
 		<th>https://github.com/fabiogaiera/scenes-classifier-tensorflow</th>
 	</tr>
 	<tr>
-		<th><a href="https://stock-market-pricing.herokuapp.com">Stock Market Pricing API</a></th>
+		<th><a href="https://stock-market-pricing.herokuapp.com">Stock Market Pricing API. See README.md from repository</a></th>
 		<th>https://github.com/fabiogaiera/stock-market-pricing</th>
 	</tr>
 	<tr>
-		<th>See README.md</th>
+		<th>Corn Diseases Classifier API. See README.md from repository</th>
 		<th>https://github.com/fabiogaiera/corn-diseases-classifier</th>
 	</tr>
 </table>
