@@ -18,7 +18,7 @@
 		<th>https://github.com/fabiogaiera/scenes-classifier-tensorflow</th>
 	</tr>
 	<tr>
-		<th><a href="https://stock-market-pricing.herokuapp.com">Stock Market Pricing API. See README.md from repository</a></th>
+		<th>Stock Market Pricing API. See README.md from repository</th>
 		<th>https://github.com/fabiogaiera/stock-market-pricing</th>
 	</tr>
 	<tr>
