@@ -27,26 +27,13 @@
 	</tr>
 </table>
 
-## My Tech Stack
+## My tech stack
 
-<table>
-	<tr>
-		<th>Programming languages</th>
-		<th>Databases</th>
-	</tr>
-	<tr>
-		<th>Python</th>
-		<th>Oracle</th>
-	</tr>
-	<tr>
-		<th>Java</th>
-		<th>MySQL</th>
-	</tr>
+## Programming languages
 
-</table>
-
-
-
+* Python
+* Java
+* kdb+
 
 ## Databases
 
