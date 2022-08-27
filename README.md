@@ -29,11 +29,22 @@
 
 ## My Tech Stack
 
-### Programming languages
+<table>
+	<tr>
+		<th>
+			Programming languages
+		</th>
 
-* Python  
-* Java  
-* kdb+/q  
+		<th>
+			Python Java kdb+/q  
+		</th>
+		
+	</tr>
+
+</table>
+
+
+
 
 ## Databases
 
@@ -41,20 +52,31 @@
 * MySQL
 * kdb+
 
-### Machine learning libraries     
+### Python machine learning libraries     
 
 * TensorFlow  
 * scikit-learn  
 
-## Data analysis libraries
+## Python data analysis libraries
 
 * NumPy  
 * pandas  
 
-## Data visualization libraries 
+## Python data visualization libraries 
 
 * Matplotlib  
 * seaborn  
+
+## Python frameworks  
+
+* FastAPI
+
+## Java frameworks
+
+* Spring Framework
+* Spring Boot
+* Spring Data
+* Hibernate ORM
 
 ## Cloud computing
 
@@ -65,17 +87,6 @@
 
 * Docker
 * Kubernetes
-
-## Java frameworks
-
-* Spring Framework
-* Spring Boot
-* Spring Data
-* Hibernate ORM
-
-## Python frameworks  
-
-* FastAPI
 
 ## DevOps
 
