@@ -33,13 +33,12 @@
 
 * Python
 * Java
-* kdb+
+* kdb+/q
 
 ### Databases
 
 * Oracle
 * MySQL
-* kdb+
 
 ### Python machine learning libraries     
 
