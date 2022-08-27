@@ -37,7 +37,11 @@
 	<tr>
 		<th>Python</th>
 		<th>Oracle</th>
-	</tr>	
+	</tr>
+	<tr>
+		<th>Java</th>
+		<th>MySQL</th>
+	</tr>
 
 </table>
 
