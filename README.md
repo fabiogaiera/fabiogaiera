@@ -34,7 +34,10 @@
 		<th>Programming languages</th>
 		<th>Databases</th>
 	</tr>
-
+	<tr>
+		<th>Python</th>
+		<th>Oracle</th>
+	</tr>	
 
 </table>
 
