@@ -31,15 +31,10 @@
 
 <table>
 	<tr>
-		<th>
-			Programming languages
-		</th>
-
-		<th>
-			Python Java kdb+/q  
-		</th>
-		
+		<th>Programming languages</th>
+		<th>Databases</th>
 	</tr>
+
 
 </table>
 
