@@ -29,13 +29,13 @@
 
 ## My tech stack
 
-## Programming languages
+### Programming languages
 
 * Python
 * Java
 * kdb+
 
-## Databases
+### Databases
 
 * Oracle
 * MySQL
@@ -46,39 +46,39 @@
 * TensorFlow  
 * scikit-learn  
 
-## Python data analysis libraries
+### Python data analysis libraries
 
 * NumPy  
 * pandas  
 
-## Python data visualization libraries 
+### Python data visualization libraries 
 
 * Matplotlib  
 * seaborn  
 
-## Python frameworks  
+### Python frameworks  
 
 * FastAPI
 
-## Java frameworks
+### Java frameworks
 
 * Spring Framework
 * Spring Boot
 * Spring Data
 * Hibernate ORM
 
-## Cloud computing
+### Cloud computing
 
 * Google Cloud Platform
 * Heroku
 
-## Containerization
+### Containerization
 
 * Docker
 * Kubernetes
 
-## DevOps
+### DevOps
 
-* GitHub
+* Git
 * Jenkins
 * SonarQube
