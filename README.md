@@ -31,14 +31,23 @@
 
 ### Programming languages
 
-* Python
 * Java
+* Python
 * kdb+/q
 
 ### Databases
 
 * Oracle
 * MySQL
+
+### Java frameworks
+
+* Spring Framework
+* Spring Boot
+* Spring Data
+* Hibernate ORM
+* JUnit
+* Mockito
 
 ### Python machine learning libraries     
 
@@ -58,13 +67,6 @@
 ### Python frameworks  
 
 * FastAPI
-
-### Java frameworks
-
-* Spring Framework
-* Spring Boot
-* Spring Data
-* Hibernate ORM
 
 ### Cloud computing
 
