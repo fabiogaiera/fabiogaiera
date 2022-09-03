@@ -5,7 +5,6 @@
 ## I am a Software Engineer who loves building things. Nowadays I mostly work on Java, Python & kdb+/q based applications development.
 
 <br/>
-<br/>
 
 ## Sample projects
 
