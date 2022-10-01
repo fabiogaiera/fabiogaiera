@@ -10,7 +10,7 @@
 
 <table>	
 	<tr>
-		<th>Web App | API</th>
+		<th>Web Application | API</th>
 		<th>Repository</th>
 	</tr>
 	<tr>
