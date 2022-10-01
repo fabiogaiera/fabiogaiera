@@ -85,4 +85,5 @@
 
 * Git
 * Jenkins
+* Octopus
 * SonarQube
