@@ -74,7 +74,6 @@
 
 ### Cloud computing
 
-* Google Cloud Platform
 * Heroku
 
 ### Containerization
