@@ -31,9 +31,9 @@
 	</tr>
 </table>
 
-## My tech stack
+## My Technology Stack
 
-### Programming languages
+### Programming Languages
 
 * Java
 * Python
@@ -44,7 +44,7 @@
 * Oracle
 * MySQL
 
-### Java frameworks
+### Java Frameworks
 
 * Spring Framework
 * Spring Boot
@@ -53,26 +53,26 @@
 * JUnit
 * Mockito
 
-### Python machine learning libraries     
+### Python Machine Learning Libraries     
 
 * TensorFlow  
 * scikit-learn  
 
-### Python data analysis libraries
+### Python Data Analysis Libraries
 
 * NumPy  
 * pandas  
 
-### Python data visualization libraries 
+### Python Data Visualization Libraries 
 
 * Matplotlib  
 * seaborn  
 
-### Python frameworks  
+### Python Frameworks  
 
 * FastAPI
 
-### Cloud computing
+### Cloud Computing
 
 * Heroku
 
