@@ -29,7 +29,7 @@
 * Python
 * kdb+/q
 
-### Java Application Development
+### Java Technologies
 
 * Spring Framework
 * Spring Boot
@@ -40,7 +40,7 @@
 * Cucumber
 * Apache Maven
 
-### Python Machine Learning
+### Python Technologies
 
 * TensorFlow
 * scikit-learn
