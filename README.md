@@ -25,9 +25,19 @@
 
 ### Programming Languages
 
-* Java
 * Python
+* Java
 * kdb+/q
+
+### Python Technologies
+
+* TensorFlow
+* scikit-learn
+* NumPy
+* pandas
+* Matplotlib
+* seaborn
+* FastAPI
 
 ### Java Technologies
 
@@ -39,16 +49,6 @@
 * Mockito
 * Cucumber
 * Apache Maven
-
-### Python Technologies
-
-* TensorFlow
-* scikit-learn
-* NumPy
-* pandas
-* Matplotlib
-* seaborn
-* FastAPI
 
 ### Cloud Computing
 
