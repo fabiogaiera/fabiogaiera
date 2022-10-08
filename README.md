@@ -21,7 +21,7 @@
 	</tr>
 </table>
 
-## Technology Stack
+## Main Skills
 
 ### Programming Languages
 
