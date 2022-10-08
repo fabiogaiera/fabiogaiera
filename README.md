@@ -74,3 +74,4 @@
 * RabbitMQ
 * JBoss EAP
 * WildFly
+* Red Hat Enterprise Linux
