@@ -80,5 +80,5 @@
 
 ### Message Brokers  
 
-* JBoss EAP  
-* WildFy  
+* JMS  
+* RabbitMQ  
