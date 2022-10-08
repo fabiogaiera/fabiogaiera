@@ -31,51 +31,54 @@
 * Python
 * kdb+/q
 
-### Databases
+### Java Application Development
 
-* Oracle
-* MySQL
+* Spring Framework  
+* Spring Boot  
+* Spring Data  
+* Hibernate ORM  
+* JUnit  
+* Mockito  
+* Cucumber  
+* Apache Maven  
 
-### Java Frameworks
-
-* Spring Framework
-* Spring Boot
-* Spring Data
-* Hibernate ORM
-* JUnit
-* Mockito
-
-### Python Machine Learning Libraries     
+### Python Machine Learning     
 
 * TensorFlow  
 * scikit-learn  
-
-### Python Data Analysis Libraries
-
 * NumPy  
 * pandas  
-
-### Python Data Visualization Libraries 
-
 * Matplotlib  
 * seaborn  
-
-### Python Frameworks  
-
-* FastAPI
+* FastAPI  
 
 ### Cloud Computing
 
-* Heroku
+* Heroku  
 
-### Containerization
+### Containerization  
 
-* Docker
-* Kubernetes
+* Docker  
+* Kubernetes  
 
-### DevOps
+### DevOps  
 
-* Git
-* Jenkins
-* Octopus
-* SonarQube
+* Git  
+* Jenkins  
+* Octopus  
+* SonarQube  
+
+### Databases
+
+* Oracle
+* MySQL  
+
+### Application Servers  
+
+* JBoss EAP  
+* WildFly  
+
+### Message Brokers  
+
+* JBoss EAP  
+* MySQL  
