@@ -68,17 +68,11 @@
 * Octopus  
 * SonarQube  
 
-### Databases
+### IT Infrastructure
 
 * Oracle
-* MySQL  
-
-### Application Servers  
-
-* JBoss EAP  
-* WildFly  
-
-### Message Brokers  
-
-* JMS  
-* RabbitMQ  
+* MySQL
+* IBM MQ
+* RabbitMQ
+* JBoss EAP
+* WildFly
