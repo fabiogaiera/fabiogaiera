@@ -1,5 +1,3 @@
-<img align="left" src="crow.png">
-
 ### Hi there! :wave:
 
 ## I am a Software Engineer who loves building things. Nowadays I mostly work on Java, Python & kdb+/q based applications development.
@@ -33,40 +31,40 @@
 
 ### Java Application Development
 
-* Spring Framework  
-* Spring Boot  
-* Spring Data  
-* Hibernate ORM  
-* JUnit  
-* Mockito  
-* Cucumber  
-* Apache Maven  
+* Spring Framework
+* Spring Boot
+* Spring Data
+* Hibernate ORM
+* JUnit
+* Mockito
+* Cucumber
+* Apache Maven
 
-### Python Machine Learning     
+### Python Machine Learning
 
-* TensorFlow  
-* scikit-learn  
-* NumPy  
-* pandas  
-* Matplotlib  
-* seaborn  
-* FastAPI  
+* TensorFlow
+* scikit-learn
+* NumPy
+* pandas
+* Matplotlib
+* seaborn
+* FastAPI
 
 ### Cloud Computing
 
-* Heroku  
+* Heroku
 
-### Containerization  
+### Containerization
 
-* Docker  
-* Kubernetes  
+* Docker
+* Kubernetes
 
-### DevOps  
+### DevOps
 
-* Git  
-* Jenkins  
-* Octopus  
-* SonarQube  
+* Git
+* Jenkins
+* Octopus
+* SonarQube
 
 ### IT Infrastructure
 
