@@ -29,14 +29,23 @@
 * Java
 * kdb+/q
 
-### Python Technologies
+### Machine Learning
 
 * TensorFlow
 * scikit-learn
+
+### Data Analysis
+
 * NumPy
 * pandas
+
+### Data Visualization
+
 * Matplotlib
 * seaborn
+
+### Web Framework
+
 * FastAPI
 
 ### Java Technologies
