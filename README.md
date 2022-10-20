@@ -78,9 +78,7 @@
 ### IT Infrastructure
 
 * Oracle
-* MySQL
-* IBM MQ
+* MongoDB
 * RabbitMQ
 * JBoss EAP
-* WildFly
 * Red Hat Enterprise Linux
