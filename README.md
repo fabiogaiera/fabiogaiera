@@ -81,4 +81,5 @@
 * MongoDB
 * RabbitMQ
 * JBoss EAP
+* Apache Tomcat
 * Red Hat Enterprise Linux
