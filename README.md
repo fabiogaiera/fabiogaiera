@@ -27,7 +27,6 @@
 
 * Python
 * Java
-* C++
 
 ### Machine Learning
 
