@@ -1,6 +1,6 @@
 ### Hi there! :wave:
 
-## I am a Software Engineer who loves building things. Nowadays I mostly work on Python and Java based applications development.
+## I am a Machine Learning Engineer who loves building things. Nowadays I mostly work on Python and Java based applications development.
 
 <br/>
 
@@ -67,13 +67,6 @@
 * Docker
 * Kubernetes
 
-### DevOps
-
-* Git
-* Jenkins
-* Octopus
-* SonarQube
-
 ### IT Infrastructure
 
 * Oracle
@@ -82,3 +75,10 @@
 * JBoss EAP
 * Apache Tomcat
 * Red Hat Enterprise Linux
+
+### Others
+
+* Git
+* Jenkins
+* Octopus
+* SonarQube
