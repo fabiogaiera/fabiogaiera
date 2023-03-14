@@ -27,6 +27,7 @@
 
 * Python
 * Java
+* kdb+/q
 
 ### Machine Learning
 
