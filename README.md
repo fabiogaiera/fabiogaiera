@@ -1,10 +1,10 @@
 ### Hi there! :wave:
 
-# I am a Software Engineer who loves building things. Nowadays I mostly work with Python, Java and kdb+/q among the main technologies. I am interested in Machine Learning, Quantitative Finance and Algorithmic Trading.
+#### I am a Software Engineer who loves building things. Nowadays I mostly work with Python, Java and kdb+/q among the main technologies. I am interested in Machine Learning, Quantitative Finance and Algorithmic Trading.
 
 <br/>
 
-# Sample projects
+#### Sample projects
 
 <table>	
 	<tr>
@@ -21,15 +21,15 @@
 	</tr>
 </table>
 
-## Main Skills
+#### Main Skills
 
-### Programming Languages
+#### Programming Languages
 
 * Python
 * Java
 * kdb+/q
 
-### Python Technologies
+#### Python Technologies
 
 * NumPy
 * pandas
@@ -39,7 +39,7 @@
 * scikit-learn
 * FastAPI
 
-### Java Technologies
+#### Java Technologies
 
 * Spring Framework
 * Spring Boot
@@ -50,16 +50,16 @@
 * Cucumber
 * Apache Maven
 
-### Cloud Computing
+#### Cloud Computing
 
 * Heroku
 
-### Containerization
+#### Containerization
 
 * Docker
 * Kubernetes
 
-### IT Infrastructure
+#### IT Infrastructure
 
 * Oracle
 * kdb+
@@ -68,7 +68,7 @@
 * Apache Tomcat
 * Red Hat Enterprise Linux
 
-### Others
+#### Others
 
 * Git
 * Jenkins
