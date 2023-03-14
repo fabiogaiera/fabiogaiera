@@ -1,6 +1,6 @@
 ### Hi there! :wave:
 
-## I am a Machine Learning Engineer who loves building things. Nowadays I mostly work on Python, Java and kdb+/q as the main technologies.
+## I am a Machine Learning Engineer who loves building things. Nowadays I mostly work with Python, Java and kdb+/q as the main technologies.
 
 <br/>
 
