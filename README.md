@@ -29,23 +29,14 @@
 * Java
 * kdb+/q
 
-### Machine Learning
-
-* TensorFlow
-* scikit-learn
-
-### Data Analysis
+### Python Technologies
 
 * NumPy
 * pandas
-
-### Data Visualization
-
 * Matplotlib
 * seaborn
-
-### Web Framework
-
+* TensorFlow
+* scikit-learn
 * FastAPI
 
 ### Java Technologies
@@ -71,7 +62,7 @@
 ### IT Infrastructure
 
 * Oracle
-* MongoDB
+* kdb+
 * RabbitMQ
 * JBoss EAP
 * Apache Tomcat
