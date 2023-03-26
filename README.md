@@ -23,16 +23,16 @@
 
 #### Main Skills
 
-▪ Programming Languages: Python, Java, kdb+/q.
-▪ Data Analysis tools: NumPy, pandas.
-▪ Data Visualization tools: Matplotlib, seaborn.
-▪ Machine Learning tools: TensorFlow, scikit-learn.
-▪ Solid understanding of general algorithms: time complexity, space complexity and implementation.
-▪ API Technology Stack: Spring Boot, Spring Framework, Spring Data, JUnit, Mockito, Oracle Database, Apache Kafka.
-▪ CI / CD Tools: Git, Jenkins, SonarQube, Octopus.
-▪ Containerization: Docker, Kubernetes.
-▪ Cloud technologies: Heroku.
-▪ Software development based in Agile methodologies and DevOps.
-▪ Quantitative Finance and Capital Markets.
-▪ Business requirements gathering techniques.
-▪ Team management.
+▪ Programming Languages: Python, Java, kdb+/q.  
+▪ Data Analysis tools: NumPy, pandas.  
+▪ Data Visualization tools: Matplotlib, seaborn.  
+▪ Machine Learning tools: TensorFlow, scikit-learn.  
+▪ Solid understanding of general algorithms: time complexity, space complexity and implementation.  
+▪ API Technology Stack: Spring Boot, Spring Framework, Spring Data, JUnit, Mockito, Oracle Database, Apache Kafka.  
+▪ CI / CD Tools: Git, Jenkins, SonarQube, Octopus.  
+▪ Containerization: Docker, Kubernetes.  
+▪ Cloud technologies: Heroku.  
+▪ Software development based in Agile methodologies and DevOps.  
+▪ Quantitative Finance and Capital Markets.  
+▪ Business requirements gathering techniques.  
+▪ Team management.  
