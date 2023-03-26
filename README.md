@@ -23,11 +23,7 @@
 
 #### Main Skills
 
-#### Programming Languages
-
-* Python
-* Java
-* kdb+/q
+#### Programming Languages: Python, Java, kdb+/q
 
 #### Python Technologies
 
