@@ -31,7 +31,7 @@
 ▪ API Technology Stack: Spring Boot, Spring Framework, Spring Data, JUnit, Mockito, Oracle Database, Apache Kafka.  
 ▪ CI / CD Tools: Git, Jenkins, SonarQube, Octopus.  
 ▪ Containerization: Docker, Kubernetes.  
-▪ Cloud technologies: Heroku.  
+▪ Cloud Technologies: Heroku.  
 ▪ Software Development Based in Agile Methodologies and DevOps.  
 ▪ Quantitative Finance and Capital Markets.  
 ▪ Business Requirements Gathering Techniques.  
