@@ -1,6 +1,6 @@
 ### Hi there! :wave:
 
-#### I am a Software Engineer who loves building things. Nowadays I mostly work with Python, Java and kdb+/q among the main technologies. I am interested in Machine Learning, Quantitative Finance and Algorithmic Trading.
+#### I am a Software Engineer who loves building things. Nowadays I mostly work with Python and kdb+/q among the main technologies. I am interested in Machine Learning, Quantitative Finance and Algorithmic Trading.
 
 <br/>
 
