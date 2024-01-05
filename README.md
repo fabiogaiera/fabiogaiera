@@ -23,7 +23,7 @@
 
 #### Main Skills
 
-▪ Programming Languages: Python, kdb+/q.  
+▪ Programming Languages: Python, Java.  
 ▪ Data Processing: NumPy, pandas.  
 ▪ Data Visualization: Matplotlib, seaborn.  
 ▪ Machine Learning: TensorFlow, scikit-learn.  
