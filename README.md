@@ -26,7 +26,7 @@ I am a Software Engineer who loves building things. Nowadays I mostly work with 
 ▪ Columnar Databases: kdb+  
 ▪ Relational Databases: Oracle, MySQL  
 ▪ CI / CD Tools: GitLab, Octopus Deploy  
-▪ Containerization: Docker, Kubernetes  
+▪ Containerization and Orchestration: Docker, Kubernetes  
 ▪ Cloud Technologies: Amazon Web Services  
 ▪ Software Architectures: kdb+tick Architecture, Microservices Architecture, Event-Driven Architecture  
 ▪ Software Development Process: Agile Methodologies, DevOps  
