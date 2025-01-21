@@ -17,8 +17,8 @@ I am a Software Engineer who loves building things. Nowadays I mostly work with 
 
 ### Main Skills  
   
-▪ Programming Languages: Python, Java  
-▪ Data Wrangling: NumPy, pandas  
+▪ Programming Languages: Python, Java, C++
+▪ Data Wrangling: NumPy, pandas
 ▪ Data Visualization: Matplotlib, seaborn, Plotly  
 ▪ Machine Learning: TensorFlow, scikit-learn  
 ▪ Web Development: Flask, SQLAlchemy, pytest    
