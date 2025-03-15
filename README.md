@@ -17,7 +17,7 @@ I am a Software Engineer who loves building things. Nowadays I mostly work with 
 
 ### Main Skills  
   
-▪ Programming Languages: Python, Java, C++  
+▪ Programming Languages: Python, q, Java    
 ▪ Data Wrangling: NumPy, pandas  
 ▪ Data Visualization: Matplotlib, seaborn, Plotly  
 ▪ Machine Learning: TensorFlow, scikit-learn  
@@ -28,7 +28,7 @@ I am a Software Engineer who loves building things. Nowadays I mostly work with 
 ▪ CI / CD Tools: GitLab, Octopus Deploy  
 ▪ Containerization and Orchestration: Docker, Kubernetes  
 ▪ Cloud Technologies: Amazon Web Services  
-▪ Software Architectures: kdb+tick Architecture, Microservices Architecture, Event-Driven Architecture  
+▪ Software Architectures: kdb+tick Architecture, Microservices Architecture  
 ▪ Software Development Process: Agile Methodologies, DevOps  
 ▪ Team Management: Resource Management, Planning  
 ▪ Application Operation Management: Application Lifecycle, Incident Management  
