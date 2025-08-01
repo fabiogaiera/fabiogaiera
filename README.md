@@ -17,15 +17,15 @@ I'm a Data Engineer with a strong Software Engineering background. These days, I
 
 ### Main Skills  
   
-▪ Programming Languages: Python, q, Java
-▪ Data Processing: pandas, NumPy
-▪ Machine Learning: TensorFlow, scikit-learn
-▪ Workflow Orchestration: Apache Airflow
-▪ Databases: kdb+, Oracle
-▪ Data Platforms: Snowflake, Apache Kafka
-▪ Containerization & Orchestration: Docker, Kubernetes
-▪ Cloud Infrastructure: AWS (Lambda, S3)
-▪ Operating Systems: Red Hat Enterprise Linux
-▪ Data Architectures: kdb+tick, Data Lake
-▪ Monitoring & Logging: Grafana, Splunk
-▪ Development Practices: Agile Methodologies, DevOps, Incident Management
+▪ Programming Languages: Python, q, Java  
+▪ Data Processing: pandas, NumPy  
+▪ Machine Learning: TensorFlow, scikit-learn  
+▪ Workflow Orchestration: Apache Airflow  
+▪ Databases: kdb+, Oracle  
+▪ Data Platforms: Snowflake, Apache Kafka  
+▪ Containerization & Orchestration: Docker, Kubernetes  
+▪ Cloud Infrastructure: AWS (Lambda, S3)  
+▪ Operating Systems: Red Hat Enterprise Linux  
+▪ Data Architectures: kdb+tick, Data Lake  
+▪ Monitoring & Logging: Grafana, Splunk  
+▪ Development Practices: Agile Methodologies, DevOps, Incident Management  
