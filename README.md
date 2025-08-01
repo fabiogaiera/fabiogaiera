@@ -1,6 +1,6 @@
 ### Hi there! :wave:
 
-I am a Software Engineer who loves building things. Nowadays I mostly work with Python, kdb+ and Java, among the main technologies. I am interested in Machine Learning, Quantitative Finance and Algorithmic Trading.
+I'm a Data Engineer with a strong Software Engineering background. These days, I mostly work with Python, kdb+, and Java. I'm especially interested in Machine Learning and Quantitative Finance.
 
 <br/>
 
@@ -17,18 +17,15 @@ I am a Software Engineer who loves building things. Nowadays I mostly work with 
 
 ### Main Skills  
   
-▪ Programming Languages: Python, q, Java    
-▪ Data Wrangling: NumPy, pandas  
-▪ Data Visualization: Matplotlib, seaborn, Plotly  
-▪ Machine Learning: TensorFlow, scikit-learn  
-▪ Web Development: Flask, SQLAlchemy, pytest    
-▪ Solid Understanding of General Algorithms: Time Complexity, Space Complexity  
-▪ Columnar Databases: kdb+  
-▪ Relational Databases: Oracle, MySQL  
-▪ CI / CD Tools: GitLab, Octopus Deploy  
-▪ Containerization and Orchestration: Docker, Kubernetes  
-▪ Cloud Technologies: Amazon Web Services  
-▪ Software Architectures: kdb+tick Architecture, Microservices Architecture  
-▪ Software Development Process: Agile Methodologies, DevOps  
-▪ Team Management: Resource Management, Planning  
-▪ Application Operation Management: Application Lifecycle, Incident Management  
+▪ Programming Languages: Python, q, Java
+▪ Data Processing: pandas, NumPy
+▪ Machine Learning: TensorFlow, scikit-learn
+▪ Workflow Orchestration: Apache Airflow
+▪ Databases: kdb+, Oracle
+▪ Data Platforms: Snowflake, Apache Kafka
+▪ Containerization & Orchestration: Docker, Kubernetes
+▪ Cloud Infrastructure: AWS (Lambda, S3)
+▪ Operating Systems: Red Hat Enterprise Linux
+▪ Data Architectures: kdb+tick, Data Lake
+▪ Monitoring & Logging: Grafana, Splunk
+▪ Development Practices: Agile Methodologies, DevOps, Incident Management
