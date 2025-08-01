@@ -29,3 +29,4 @@ I'm a Data Engineer with a strong Software Engineering background. These days, I
 ▪ Data Architectures: kdb+tick, Data Lake  
 ▪ Monitoring & Logging: Grafana, Splunk  
 ▪ Development Practices: Agile Methodologies, DevOps, Incident Management  
+• Domain-Specific Knowledge: Capital Markets  
