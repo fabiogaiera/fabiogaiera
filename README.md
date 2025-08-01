@@ -6,12 +6,12 @@ I am a Software Engineer who loves building things. Nowadays I mostly work with 
 
 ### Sample Projects
 
-| Type of Software     | Endpoint                  											           | Repository                                                                    |
+| Type of Software     | Endpoint                  											                                         | Repository                                                                    |
 | :------------------- | :---------------------------------------------------------------------------------------| :-----------------------------------------------------------------------------|
 | Web Application      | [Scenes Classifier](https://scenes-classifier.herokuapp.com)                            | [GitHub](https://github.com/fabiogaiera/scenes-classifier-tensorflow-lite)    |
 | REST API             | [Corn Diseases Classifier](https://corn-diseases-classifier.herokuapp.com)              | [GitHub](https://github.com/fabiogaiera/corn-diseases-classifier)             |
 | Web Application      | [Nasdaq Stocks Volatility](https://nasdaq-stocks-volatility-b53bc5223358.herokuapp.com) | [GitHub](https://github.com/fabiogaiera/nasdaq-stocks-volatility)             |
-| Web Application      | [AAPL Stock Backtesting](https://aapl-stock-backtesting-6d3cf7b31653.herokuapp.com)     | [GitHub](https://github.com/fabiogaiera/aapl-stock-backtesting)               |
+| Python Scripts       | [Transitioning to KX Products](#)                                                       | [GitHub](https://github.com/fabiogaiera/transitioning-to-kx-products)         |
 
 
 
