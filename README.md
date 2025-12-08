@@ -6,12 +6,12 @@ I'm a Data Engineer with a strong Software Engineering background. These days, I
 
 ### Sample Projects
 
-| Type of Software     | Endpoint                  											                                         | Repository                                                                    |
-| :------------------- | :---------------------------------------------------------------------------------------| :-----------------------------------------------------------------------------|
-| Web Application      | [Scenes Classifier](https://scenes-classifier.herokuapp.com)                            | [GitHub](https://github.com/fabiogaiera/scenes-classifier-tensorflow-lite)    |
-| REST API             | [Corn Diseases Classifier](https://corn-diseases-classifier.herokuapp.com)              | [GitHub](https://github.com/fabiogaiera/corn-diseases-classifier)             |
-| Web Application      | [Nasdaq Stocks Volatility](https://nasdaq-stocks-volatility-b53bc5223358.herokuapp.com) | [GitHub](https://github.com/fabiogaiera/nasdaq-stocks-volatility)             |
-| Python Scripts       | [Transitioning to KX](#)                                                                | [GitHub](https://github.com/fabiogaiera/transitioning-to-kx)                  |
+| Type of Software     | Endpoint                  											                                                   | Repository                                                                 |
+| :------------------- |:----------------------------------------------------------------------------------------|:---------------------------------------------------------------------------|
+| Web Application      | [Scenes Classifier](https://scenes-classifier.herokuapp.com)                            | [GitHub](https://github.com/fabiogaiera/scenes-classifier-tensorflow-lite) |
+| REST API             | [Corn Diseases Classifier](https://corn-diseases-classifier.herokuapp.com)              | [GitHub](https://github.com/fabiogaiera/corn-diseases-classifier)          |
+| Web Application      | [Nasdaq Stocks Volatility](https://nasdaq-stocks-volatility-b53bc5223358.herokuapp.com) | [GitHub](https://github.com/fabiogaiera/nasdaq-stocks-volatility)          |
+| Python Scripts       | [Transitioning to KDB-X](#)                                                             | [GitHub](https://github.com/fabiogaiera/transitioning-to-kdb-x)            |
 
 
 
