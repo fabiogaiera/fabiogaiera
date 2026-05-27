@@ -1,32 +1,22 @@
 ### Hi there! :wave:
 
-I'm a Data Engineer with a strong Software Engineering background. These days, I mostly work with Python, kdb+, and Java. I'm especially interested in Machine Learning and Quantitative Finance.
+I am a Quant Developer with a strong foundation in Software Engineering, specializing in building high-performance systems for capital markets and quantitative trading.  
 
-<br/>
+My core expertise lies in Python, Java, and q, which I use to develop time-series analytics, pricing tools, and scalable trading and research platforms. I work extensively with large financial datasets, designing efficient data models and solutions for quantitative analysis.  
 
-### Sample Projects
-
-| Type of Software     | Endpoint                  											                                                   | Repository                                                                 |
-| :------------------- |:----------------------------------------------------------------------------------------|:---------------------------------------------------------------------------|
-| Web Application      | [Scenes Classifier](https://scenes-classifier.herokuapp.com)                            | [GitHub](https://github.com/fabiogaiera/scenes-classifier-tensorflow-lite) |
-| REST API             | [Corn Diseases Classifier](https://corn-diseases-classifier.herokuapp.com)              | [GitHub](https://github.com/fabiogaiera/corn-diseases-classifier)          |
-| Web Application      | [Nasdaq Stocks Volatility](https://nasdaq-stocks-volatility-b53bc5223358.herokuapp.com) | [GitHub](https://github.com/fabiogaiera/nasdaq-stocks-volatility)          |
-| Python Scripts       | [Transitioning to KDB-X](#)                                                             | [GitHub](https://github.com/fabiogaiera/transitioning-to-kdb-x)            |
+Holding an MSc in Artificial Intelligence, I combine theoretical knowledge in machine learning and statistics with hands-on experience in developing data-driven trading and risk solutions.  
 
 
 
-### Main Skills  
+### Skills  
   
 ▪ Programming Languages: Python, q, Java  
 ▪ Data Processing: pandas, NumPy  
-▪ Machine Learning: TensorFlow, scikit-learn  
-▪ Workflow Orchestration: Apache Airflow  
+▪ Machine Learning: scikit-learn, TensorFlow  
 ▪ Databases: kdb+, Oracle  
-▪ Data Platforms: Snowflake, Apache Kafka  
-▪ Containerization & Orchestration: Docker, Kubernetes  
-▪ Cloud Infrastructure: AWS (Lambda, S3)  
+▪ Streaming Platform: Apache Kafka  
+▪ Infrastructure: Docker, Kubernetes, AWS (S3, Lambda)  
 ▪ Operating Systems: Red Hat Enterprise Linux  
-▪ Data Architectures: kdb+tick, Data Lake  
-▪ Monitoring & Logging: Grafana, Splunk  
-▪ Development Practices: Agile Methodologies, DevOps, Incident Management  
-• Domain-Specific Knowledge: Capital Markets  
+▪ Quantitative & Numerical Methods: Time-Series Analysis, Statistical Modeling, Optimization, Numerical Methods  
+▪ Research & Strategy Development: Feature Engineering, Signal Analysis, Backtesting  
+▪ Domain Expertise: Capital Markets, Systematic Trading, Quantitative Finance  
